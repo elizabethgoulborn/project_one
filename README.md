@@ -1,1 +1,1 @@
-My first Python project: creates a unique user profile
+My first Python project: practicing if statements, for/while loops, and functions to create a basic social media
